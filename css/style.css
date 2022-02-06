@@ -1,0 +1,19 @@
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css";
+@import "./css/style.css";
+
+:root {
+  --main-background-color: #FFFFFF;
+  --h1-color: #10BD9E;
+  --card-background-color: #CCFFEB;
+  --footer-nav-background-color: #96FCAB;
+}
+
+.custom-nav {
+  background-color: var(--footer-nav-background-color);
+  
+}
+
+a {
+  color: var(--main-background-color);
+}
+
