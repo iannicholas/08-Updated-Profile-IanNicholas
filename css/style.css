@@ -8,6 +8,13 @@
   --footer-nav-background-color: #96FCAB;
 }
 
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  padding: 0px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
 .custom-nav {
   background-color: var(--footer-nav-background-color);
   
